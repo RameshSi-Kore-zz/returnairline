@@ -1,0 +1,44 @@
+{
+"symbols":[
+    {
+      "stackname": "Baidu Inc",
+      "stacksymbol": "BIDU",
+      "price": "180.31"
+    },
+    {
+      "stackname": "Facebook Inc",
+      "stacksymbol": "FB",
+      "price": "124.35"
+    },
+    {
+      "stackname": "Apple Inc",
+      "stacksymbol": "AAPL",
+      "price": "119.75"
+    },
+    {
+      "stackname": "GoDaddy Inc",
+      "stacksymbol": "GDDY",
+      "price": "35.21"
+    },
+    {
+      "stackname": "The Coca-Cola Co",
+      "stacksymbol": "KO",
+      "price": "41.05"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

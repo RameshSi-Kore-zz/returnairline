@@ -44,3 +44,5 @@
         }
     ]
 }
+response.results.itineraries.outbound.fare.total_price
+<%=flight_number%>, dep:<%=departs_at%>, arr:<%=arrives_at%>, Category:<%=booking_info.travel_class%>
